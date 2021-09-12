@@ -1,0 +1,57 @@
+[submodule "Child Parent"]
+	path = Child Parent
+	url = ./Child Parent/
+[submodule "CSS - Solar System"]
+	path = CSS - Solar System
+	url = ./CSS - Solar System/
+[submodule "CSS Animations"]
+	path = CSS Animations
+	url = ./CSS Animations/
+[submodule "CSS HOVER EFFECT Animatia Assignment [17]"]
+	path = CSS HOVER EFFECT Animatia Assignment [17]
+	url = ./CSS HOVER EFFECT Animatia Assignment [17]/
+[submodule "CSS Selectors"]
+	path = CSS Selectors
+	url = ./CSS Selectors/
+[submodule "CSS3 Animation"]
+	path = CSS3 Animation
+	url = ./CSS3 Animation/
+[submodule "CSS3 Heart Animation"]
+	path = CSS3 Heart Animation
+	url = ./CSS3 Heart Animation/
+[submodule "CSS-Form Design"]
+	path = CSS-Form Design
+	url = ./CSS-Form Design/
+[submodule "How to create a Flower Animation using HTML and CSS"]
+	path = How to create a Flower Animation using HTML and CSS
+	url = ./How to create a Flower Animation using HTML and CSS/
+[submodule "How to create Bird Animation using HTML and CSS"]
+	path = How to create Bird Animation using HTML and CSS
+	url = ./How to create Bird Animation using HTML and CSS/
+[submodule "How to create menu in html and css"]
+	path = How to create menu in html and css
+	url = ./How to create menu in html and css
+[submodule "How to create menu in html and css menu 2"]
+	path = How to create menu in html and css menu 2
+	url = ./How to create menu in html and css menu 2/
+[submodule "how to create parent child relationship in html"]
+	path = how to create parent child relationship in html
+	url = ./how to create parent child relationship in html/
+[submodule "MarginPaddingInCss"]
+	path = MarginPaddingInCss
+	url = ./MarginPaddingInCss/
+[submodule "Pricing Table"]
+	path = Pricing Table
+	url = ./Pricing Table/
+[submodule "Responsive Web Design"]
+	path = Responsive Web Design
+	url = ./Responsive Web Design
+[submodule "Responsive Web Design using Bootstrap 5"]
+	path = Responsive Web Design using Bootstrap 5
+	url = ./Responsive Web Design using Bootstrap 5/
+[submodule "Table Assignments"]
+	path = Table Assignments
+	url = ./Table Assignments/
+[submodule "parentrepo"]
+	path = parentrepo
+	url = ./test/parentrepo/
